@@ -1,4 +1,4 @@
-Get the Alert on the Feedback
+Show the Alert on the Browser
 ======================
 In this activity, you will check for XSS vulnerability of a website.
 
