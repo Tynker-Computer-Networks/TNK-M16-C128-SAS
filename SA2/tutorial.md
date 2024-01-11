@@ -1,4 +1,4 @@
-Get the User Data on Dashboard
+Fetch the User Data on the Dashboard
 ======================
 In this activity, you will perform XSS attack using script from other server to get the user information.
 
